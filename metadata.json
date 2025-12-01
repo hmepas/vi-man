@@ -1,0 +1,5 @@
+{
+  "name": "Vi-Man Retro Arcade",
+  "description": "A classic arcade maze game controlled entirely by VI keys (h, j, k, l). Features procedural pixel art rendering, synthesized retro sound effects, and high-performance canvas rendering.",
+  "requestFramePermissions": []
+}
